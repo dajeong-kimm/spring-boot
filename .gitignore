@@ -1,0 +1,75 @@
+# Compiled class files
+.class
+
+# Log files
+.log
+
+# BlueJ files
+.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp
+
+# Package Files #
+.jar
+.war
+.ear
+
+# Dependencies
+lib
+target
+out
+
+# Build directories
+build
+
+# Maven
+.mvn
+!srcmaintarget
+!srctesttarget
+target
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle
+build
+!srcmainbuild
+gradle
+.gradle
+build
+.gradle
+build
+
+# IntelliJ IDEA
+.iml
+.idea
+out
+
+# Eclipse
+.metadata
+.classpath
+.project
+.settings
+bin
+
+# VS Code
+.vscode
+
+# STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
